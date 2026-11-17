@@ -1,6 +1,6 @@
 import pandas as pd
-import streamlit as st
 import dill
+import streamlit as st
 
 from joblib import load
 
